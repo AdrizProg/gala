@@ -50,6 +50,7 @@
     height: 600px !important;
  }
 
-body {
-    height: 1080px;
+main {
+    padding-bottom: 35%;
+    
 }
